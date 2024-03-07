@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#t1{
+   
+    background: linear-gradient(red, yellow);
+    background-clip: text;
+    color: transparent;
+}
+#t1:hover{
+color: blue;
+}
+#t2{
+    color: rgba(238, 255, 0, 0.568);
+}
+#t3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#ta1{
+    font-size: 50px;
+}
+#ta2{
+    font-size: 10em;
+}
+#e1{
+    font-style: normal;
+}
+#e3{
+    font-style: italic;
+}
+#e2{
+    font-style: oblique;
+}
+#b1{
+    font-weight: bold;
+}
+#b3{
+    font-weight: 500;
+}
+#b2{
+    font-weight: lighter;
+}
+#m1{
+    text-transform:  bold;
+}
+#m3{
+    text-transform:  500;
+}
+#m2{
+    text-transform: lighter;
+}
+#s1{
+    text-decoration: none;
+}
+#s3{
+    text-decoration: overline;
+}
+#s2{
+    text-decoration: underline;
+}
+#s4{
+text-decoration: line-through;
+}
+#so1{
+    text-shadow: 5px -2px 0px blue;
+    }
+#so2{
+ text-shadow: 2px -2px 0px red;
+}
+#p1{
+    text-align: left;
+    line-height: 1.0;
+    }
+ #p2{
+        text-align: center;
+        line-height: 2.0;
+        }
+#p3{
+     text-align: justify;
+     line-height: 3.0;
+    }
+#p4{
+    text-align: right;
+    line-height: 0.5;
+}
+#es1{
+    letter-spacing: 10px;
+   }
+#es2{
+   letter-spacing: 25px;
+}
+#es3{
+    word-spacing: 10px;
+   }
+#es4{
+   word-spacing: 20px;
+}
+
+
+
+

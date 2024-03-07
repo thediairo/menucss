@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header>h1{
+    background-color: violet;
+} 
+hr{
+    color: chartreuse;
+    height: 200px;
+}
+#juanpalomera{
+    font-size: large;
+    color: brown;
+}
+.manito{
+    color: darkblue;
+}
+input[type="text"]{
+    color: cyan;
+}
+img:hover{
+    transition: 2s all ease;
+    transform: scale(1.2) rotate(360deg);
+}
+button.juan#palo{
+    color: darkorange;
+}
+section,article{
+    color: burlywood;
+}

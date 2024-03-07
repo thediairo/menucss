@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+ 
+}
+#KEY{
+    width: 200px;
+    height: 200px;
+    background: olive;
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+}
+#HE{
+    width: 200px;
+    height: 200px;
+    background: #99FFFF;
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+  
+}
+#HE3{
+    width: 200px;
+    height: 200px;
+    background: #CFF;
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#RGB{
+    width: 200px;
+    height: 200px;
+    background: rgb(140, 200, 100);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+  
+}
+#RGBP{
+    width: 200px;
+    height: 200px;
+    background: rgb(50%, 20%, 80%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#RGBA{
+    width: 200px;
+    height: 200px;
+    background: RGBA(10%,20%,70%, 1 );
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#RGBA2{
+    width: 200px;
+    height: 200px;
+    background: RGBA(35%,100%,80%, 1 );
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#DE1{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 8%, rgba(20,20,127,1) 37%, rgba(16,105,124,0.9828279357025589) 76%); 
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#DE2{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(176,174,210,1) 13%, rgba(101,101,216,1) 37%, rgba(157,31,223,0.9828279357025589) 80%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#DE3{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(211,62,177,1) 17%, rgba(175,80,229,0.9828279357025589) 71%, rgba(70,70,255,1) 100%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#DE4{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(62,211,161,1) 21%, rgba(59,214,75,0.9828279357025589) 71%, rgba(42,201,255,1) 100%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#DE5{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(102,110,255,1) 29%, rgba(214,59,193,0.9828279357025589) 68%, rgba(255,42,42,1) 100%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#HSL{
+    width: 200px;
+    height: 200px;
+    background: hsl(162, 83%, 37%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#c9{
+    width: 200px;
+    height: 200px;
+    background: hsl(80, 30%, 10%);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#c10{
+    width: 200px;
+    height: 200px;
+    background: hsla(50, 30%, 20%, 1);;
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#c11{
+    width: 200px;
+    height: 200px;
+    background: hsla(50, 60%, 20%, 1);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+
+}
+#c12{
+    width: 200px;
+    height: 200px;
+    background: hsla(50, 60%, 20%, 1);
+    border: 2px double black;
+    box-shadow: 0px -5px 30px rgb(218, 4, 4);
+    margin: 100px;
+    padding: 50px;
+
+}
