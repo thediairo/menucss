@@ -54,7 +54,7 @@ div{
 #c6{
     width: 340px;
     height: 150px;
-    background: green;
+    background: rgb(34, 126, 34);
     border: 20px solid orange;
     box-shadow: 3px 5px 30px gray;
     margin: 100px;
